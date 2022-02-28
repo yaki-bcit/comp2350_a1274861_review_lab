@@ -6,7 +6,7 @@ const dbConfigHeroku = {
 	host: "vkh7buea61avxg07.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
 	user: "a5bo4mlmtu9bdcct",
 	password: "rdf8jw9lidqm4713",
-	database: "jugv3m5awn9160ez",
+	database: "cjod1crwj31o10r5",
 	multipleStatements: false,
 	namedPlaceholders: true,
 	reconnect: true
