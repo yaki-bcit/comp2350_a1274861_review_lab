@@ -3,9 +3,9 @@ const mysql = require('mysql2');
 const is_heroku = process.env.IS_HEROKU || false;
 
 const dbConfigHeroku = {
-	host: "eanl4i1omny740jw.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-	user: "i0twbvjilgv2m7ut",
-	password: "lfw5qnq569snodyu",
+	host: "vkh7buea61avxg07.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+	user: "a5bo4mlmtu9bdcct",
+	password: "rdf8jw9lidqm4713",
 	database: "jugv3m5awn9160ez",
 	multipleStatements: false,
 	namedPlaceholders: true,
